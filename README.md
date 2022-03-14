@@ -1,7 +1,7 @@
-# Starter Web Repo
+Hi , This is my fisrt repository where i am trying to learn git and it's features.
 
-This repository is for showing how Git and GitHub work
+This is fun practising here.
 
-## Purpose
+Thanks to udemy course on git and git_hub. Which helped me a lot in learning git hub and also in studying.
 
-Sample website with plenty of files for demos
+Thanks again.
