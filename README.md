@@ -1,6 +1,6 @@
-#START HERE TOP HEADING
+# START HERE TOP HEADING
 
-##Hi , This is my fisrt repository where i am trying to learn git and it's features.
+## Hi , This is my fisrt repository where i am trying to learn git and it's features.
 
 This is fun practising here.
 
